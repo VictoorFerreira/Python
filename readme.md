@@ -1,3 +1,16 @@
 <h1 align="center">Python</h1>
- <p>Mundo 1, Mundo 2 e Mundo 3</p>
- <p>Os exercicios de python foi realizado durante o curso a aula administrada pelo Professor Gustavo Guanabara do curso em video</p>
+ 
+ 	Mundo 1
+ 		Tópicos abordados
+ 			- Como funciona
+ 			- Tipos Primitivos e Saída de Dados
+ 			- Operdores Aritiméticos
+ 			- Utilizando Módulos
+ 			- Manipulando textos e Condições
+ 			- Cores no terminal
+
+
+<p>Os exercicios de Linguagem C# foi passado para práticar sobre os assuntos acima realizado na video aula administradas pelo Professor Gustavo Guanabara pelo estudonauta</p>
+
+<h2>Tecnologia Usada</h2>
+<p>Linguagem Python</p>
