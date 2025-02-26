@@ -1,6 +1,9 @@
 #PT - Cria um programa que leia três números e mostre qual é o maior e qual é o menor
 #EN - Create a program that reads three numbers and shows which is the largest and which is the smallest
 
+print('-='*20)
+print('Largest and Smallest Values')
+print('-='*20)
 n1 = int(input('Enter a number: '))
 n2 = int(input('Enter a number: '))
 n3 = int(input('Enter a number: '))

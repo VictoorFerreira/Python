@@ -1,6 +1,9 @@
 #PT - Desenvolva um programa que leia o comprimento de três retas e diga ap usuário se elas podem ou não formar um triângulo.
 #EN - Develop a program that reads the length of three lines and tells the user whether or not they can form a triangle.
 
+print('-='*20)
+print('Triangle Analyzer v1.0')
+print('-='*20)
 n1 = int(input('Enter first length: '))
 n2 = int(input('Enter second length: '))
 n3 = int(input('Enter third length: '))

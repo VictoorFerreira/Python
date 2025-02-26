@@ -1,6 +1,9 @@
 #PT - Cria um programa que leia um ano qualquer e mostre se é BISSEXTO.
 #EN - Create a program that reads any year and shows if it is a LEAP year.
 
+print('-='*20)
+print('LEAP year')
+print('-='*20)
 import calendar
 year = int(input('Enter the year: '))
 
