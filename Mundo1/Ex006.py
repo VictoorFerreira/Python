@@ -1,3 +1,9 @@
+#PT - Crie um programa que leia um número e mostre o seu dobro, triplo e raiz Quadrada
+#EN - Create a program that reads a number and displays its double, triple and square root.
+
+print('-='*20)
+print('Dobro, Triplo e Raiz Quadrada')
+print('-='*20)
 x = int(input('Digite um numero: '))
 d = x * 2
 t = x * 3
